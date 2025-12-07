@@ -1,0 +1,5 @@
+{
+  "name": "LaTeX OCR Pro",
+  "description": "Convert images of mathematical formulas and text into LaTeX code, customized for your specific ctexbook template.",
+  "requestFramePermissions": []
+}
